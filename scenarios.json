@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Vous entendez souvent dire que l'avion est le moyen de transport le plus sûr. Voulez-vous vérifier les statistiques de sécurité pour les avions ?",
+        "options": {
+            "A": "Oui, je veux vérifier.",
+            "B": "Non, je fais confiance à ce que j'ai entendu."
+        },
+        "biasExplanation": {
+            "A": "Bravo pour votre esprit critique ! Vous essayez d'éviter le biais de disponibilité.",
+            "B": "C'est un exemple du biais de disponibilité, où nous jugeons les risques en fonction des informations facilement disponibles."
+        }
+    },
+    {
+        "question": "Vous avez toujours préféré une marque de téléphone particulière. Un nouveau modèle concurrent sort et est bien noté. Voulez-vous lire les critiques ?",
+        "options": {
+            "A": "Oui, je veux voir les avis.",
+            "B": "Non, je suis satisfait de la marque que je connais."
+        },
+        "biasExplanation": {
+            "A": "Bonne approche ! Cela montre que vous n'êtes pas influencé par le biais de confirmation.",
+            "B": "C'est un exemple du biais de confirmation, où l'on préfère les informations qui renforcent nos croyances préexistantes."
+        }
+    },
+    {
+    "question": "Vous êtes invité à un événement et vous n'êtes pas sûr de vouloir y aller. Un ami insiste en disant que c'est toujours amusant. Que faites-vous ?",
+    "options": {
+        "A": "Je vais vérifier d'autres avis ou expériences.",
+        "B": "Je vais, car il dit que c'est amusant."
+    },
+    "biasExplanation": {
+        "A": "Bravo ! Vous évitez le biais d'autorité en cherchant des informations supplémentaires.",
+        "B": "C'est un exemple du biais d'autorité, où nous avons tendance à croire ce que les personnes en position d'autorité disent."
+    }
+    },
+    {
+        "question": "Vous avez lu un article sur un nouveau régime et vous l'avez essayé. Si un ami vous demande si vous avez perdu du poids, que répondez-vous ?",
+        "options": {
+            "A": "Je n'ai pas vérifié, mais j'espère que ça a fonctionné.",
+            "B": "Oui, je me sens plus léger."
+        },
+        "biasExplanation": {
+            "A": "C'est une bonne approche ! Cela montre que vous êtes conscient du besoin de preuves.",
+            "B": "Cela peut refléter le biais d'auto-confirmation, où nous avons tendance à se rappeler des succès."
+        }
+    },
+    {
+        "question": "Vous faites des recherches sur les médicaments. Un ami mentionne une étude qui prouve que le médicament est efficace. Que faites-vous ?",
+        "options": {
+            "A": "Je vais chercher d'autres études pour confirmer.",
+            "B": "Je fais confiance à cette étude."
+        },
+        "biasExplanation": {
+            "A": "Excellente approche ! Vous cherchez à éviter le biais de disponibilité.",
+            "B": "C'est un exemple du biais de disponibilité, où nous avons tendance à croire ce qui est le plus facilement accessible."
+        }
+    },
+    {
+        "question": "Vous suivez un influenceur sur les réseaux sociaux qui parle souvent de ses produits préférés. Allez-vous essayer ses recommandations ?",
+        "options": {
+            "A": "Je vais lire d'autres critiques avant de décider.",
+            "B": "Oui, j'ai confiance en son avis."
+        },
+        "biasExplanation": {
+            "A": "Bien joué ! Vous montrez un esprit critique en vérifiant plusieurs sources.",
+            "B": "C'est un exemple du biais de halo, où nous laissons une première impression influencer nos autres opinions."
+        }
+    },
+    {
+        "question": "Vous avez récemment découvert un nouveau restaurant qui a beaucoup de critiques positives. Allez-vous y manger ce soir ?",
+        "options": {
+            "A": "Je vais vérifier d'autres sources d'avis.",
+            "B": "Oui, je suis convaincu par les critiques."
+        },
+        "biasExplanation": {
+            "A": "Bonne décision ! Vous évitez le biais de confirmation en cherchant des avis variés.",
+            "B": "Cela peut être un exemple du biais de confirmation, où vous choisissez des informations qui soutiennent votre décision."
+        }
+    },
+    {
+        "question": "Vous avez gagné à un jeu de loterie une fois. Pensez-vous que vous avez plus de chances de gagner à nouveau ?",
+        "options": {
+            "A": "Non, chaque tirage est indépendant.",
+            "B": "Oui, j'ai déjà gagné une fois."
+        },
+        "biasExplanation": {
+            "A": "Exact ! Vous comprenez que les probabilités ne changent pas selon les résultats précédents.",
+            "B": "C'est un exemple du biais de disponibilité, où une expérience passée influence votre jugement sur le futur."
+        }
+    },
+    {
+        "question": "Un ami vous dit qu'il a entendu parler d'une nouvelle tendance alimentaire qui est censée être très efficace. Allez-vous l'essayer ?",
+        "options": {
+            "A": "Je vais faire des recherches avant de me lancer.",
+            "B": "Oui, je suis curieux et je vais l'essayer."
+        },
+        "biasExplanation": {
+            "A": "Bien joué ! Vous montrez une bonne approche en vérifiant d'abord.",
+            "B": "Cela peut refléter le biais de conformité, où vous êtes influencé par les opinions des autres."
+        }
+    },
+    {
+        "question": "Vous avez assisté à une présentation sur un produit. Le présentateur était très charismatique. Allez-vous acheter le produit ?",
+        "options": {
+            "A": "Je vais comparer d'autres produits similaires avant de décider.",
+            "B": "Oui, je suis convaincu par le présentateur."
+        },
+        "biasExplanation": {
+            "A": "Excellente décision ! Vous évitez de vous laisser influencer par l'attrait personnel.",
+            "B": "C'est un exemple du biais d'attrait, où le charme d'une personne influence notre décision."
+        }
+    }    
+]

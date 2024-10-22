@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeu sur les Biais Cognitifs</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="game-container">
+        <h1>Jeu sur les Biais Cognitifs</h1>
+        <div id="score-container" style="display: none;">
+            Score : <span id="score">0</span>
+        </div>
+        <div id="question-container">
+            <p id="question">La question apparaîtra ici.</p>
+            <button class="option" id="optionA">Option A</button>
+            <button class="option" id="optionB">Option B</button>
+        </div>
+        <div id="explanation-container" style="display: none;">
+            <p id="explanation">L'explication apparaîtra ici.</p>
+            <button id="next-question">Suivant</button>
+        </div>
+        <button id="restart-game" style="display: none;">Recommencer</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
