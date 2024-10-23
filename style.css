@@ -1,6 +1,6 @@
 body {
     font-family: 'sixtyfour Convergence', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
     background-image:url(assets/images/background_image.jpg);
     display: flex;
     justify-content: center;
@@ -59,3 +59,11 @@ button {
     padding: 5px;
 }
 
+@media screen and (max-width: 600px) {
+    p {
+        font-size: 10px;
+    }
+    h1 {
+        font-size:large;
+    }
+}
