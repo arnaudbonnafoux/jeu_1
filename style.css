@@ -1,7 +1,7 @@
 body {
+    background-image:url(assets/images/background_image.jpg); 
     font-family: 'sixtyfour Convergence', sans-serif;
     font-size: 16px;
-    background-image:url(assets/images/background_image.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
